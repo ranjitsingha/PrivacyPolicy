@@ -12,4 +12,4 @@ Caption Nest App may contain links to other sites. If you click on a third-party
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
 <br><br>
-Lasr updated on 2023-Nov-17.
+Lasr updated on 2023-Nov-20.
