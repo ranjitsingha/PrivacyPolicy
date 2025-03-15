@@ -32,7 +32,7 @@ We use the collected data for the following purposes:
 - We **do not** sell, trade, or rent your personal data.  
 - We implement **industry-standard security measures** to protect your data.  
 - Your information may be shared with **third-party services** (such as crash reporting tools) only for app performance improvement.  
-- **Python Code Sharing:** We may share your **Python bot code** with **third-party services** in order to run the server and keep your bot operational.  
+- **Python Code Sharing:** We may share your **Python bot code** that you deploy with **third-party services** in order to keep your service alive
 
 ## 4. Account Deletion  
 
