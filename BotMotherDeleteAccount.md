@@ -1,4 +1,4 @@
-# Account Deletion Request  
+# Bot Mother Account Deletion Request  
 
 If you wish to delete your account associated with our app, please contact us via email.  
 
