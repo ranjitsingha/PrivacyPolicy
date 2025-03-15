@@ -1,11 +1,6 @@
-Here’s a professional privacy policy for your app, Bot Mother:
-
-
----
-
 Privacy Policy
 
-Last Updated: [Date]
+Last Updated: [15 March 2025]
 
 Welcome to Bot Mother! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 
