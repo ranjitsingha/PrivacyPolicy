@@ -64,9 +64,3 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 If you have any questions about this Privacy Policy, you can contact us at:
 
 📧 Email: mailranjitsingha@gmail.com
-
-
----
-
-Let me know if you want any modifications!
-
