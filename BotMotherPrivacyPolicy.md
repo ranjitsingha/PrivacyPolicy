@@ -1,6 +1,4 @@
-Bot Mother Privacy Policy
-
-Last Updated: 15 March 2025
+# Bot Mother Privacy Policy
 
 Welcome to Bot Mother! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 
@@ -64,3 +62,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 If you have any questions about this Privacy Policy, you can contact us at:
 
 📧 Email: mailranjitsingha@gmail.com
+
+
+Last Updated: 15 March 2025
+
